@@ -2,7 +2,7 @@
   "name": "AnarCoin 2.0",
   "symbol": "AnArKi",
   "description": "AnarCrypt Eco Sub System Project - Buy and swap here: [Buy and Swap](https://bit.ly/swap-anarki). Join the AnarCoin Collective to promote self-management using blockchain technology.",
-  "image": "https://copper-hidden-moth-883.mypinata.cloud/ipfs/QmNs3YEJ6PfC2MTtp2XMVtdGkocwaUSSDpbcciXnG8Jrmf?pinataGatewayToken=q0iufGb74wJIkVwYrVE28fmFjyTLVyXmyFGXkqd56sjcVa3RdV9sEEw1GBtRsv4E",
+  "image": "https://copper-hidden-moth-883.mypinata.cloud/ipfs/QmWW5dWUQeMVZ8c6URKCYb4kuAXRMs26yMc8gQnc4wPWzG?pinataGatewayToken=q0iufGb74wJIkVwYrVE28fmFjyTLVyXmyFGXkqd56sjcVa3RdV9sEEw1GBtRsv4E",
   "uri": "https://raw.githubusercontent.com/RastaDjuss/anarcoin-2.0/refs/heads/main/metadata-complete.json",
   "external_url": "https://tattoocalypso.com/anarcoin",
   "creator": {
@@ -12,7 +12,7 @@
       "https://tattoocalypso.com"
     ]
   },
-  "Attributes": [
+  "attributes": [
     {
       "trait_type": "All Links Bitly Linktree",
       "value": "https://bit.ly/m/anarcoin-collective"
@@ -28,4 +28,3 @@
   "license": "MIT",
   "version": "1.0.0"
 }
-
