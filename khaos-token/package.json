@@ -1,0 +1,32 @@
+{
+  "name": "khaos-token",
+  "version": "1.0.0",
+  "description": "AnarCrypt Eco Sub System Project - Join the AnarCoin Collective to promote self-management using blockchain technology. Uder the governance of Khaös Magic!",
+  "main": "test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RastaDjuss/anarcoin-2.0.git"
+  },
+  "keywords": [
+    "solana",
+    "khaos",
+    "magic",
+    "khaos",
+    "token",
+    "cryptocurrency",
+    "community",
+    "driven",
+    "raydium",
+    "memecoin"
+  ],
+  "author": "Justin AnarchSun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RastaDjuss/anarcoin-2.0/issues"
+  },
+  "homepage": "https://github.com/RastaDjuss/anarcoin-2.0#readme"
+}
