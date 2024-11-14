@@ -12,19 +12,4 @@
       "https://tattoocalypso.com"
     ]
   },
-  "attributes": [
-    {
-      "trait_type": "All Links Bitly Linktree",
-      "value": "https://bit.ly/m/anarcoin-collective"
-    },
-    {
-      "trait_type": "Raydium Swap & Buy",
-      "value": "https://bit.ly/swap-anarki"
-    }
-  ],
-  "primarySaleHappened": true,
-  "isMutable": true,
-  "tokenStandard": "fungible",
-  "license": "MIT",
-  "version": "1.0.0"
-}
+ 
